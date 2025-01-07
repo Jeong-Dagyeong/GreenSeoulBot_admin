@@ -126,14 +126,12 @@ Green Seoul Bot은 서울시 재활용품 관련 지원 정책에 특화된 AI �
      '한국 장애인 개발원'에서 개발된 'KoddiUD 온고딕'을 사용하여 고령자, 노안, 저시력자 등의 오독 가능성을 줄이고 가독성을 높임
 
 
-### 🎥 Green Seoul Bot 시연 영상 
-[시연 영상](<https://youtu.be/NjjlrxQ1qb4?si=l7-dheWBtPiZNkH3>)
+### 🎥 Green Seoul Bot admin 시연 영상 
+[시연 영상](<https://youtu.be/d0QEb5VrHSs>)
 
-### 🎨 Green Seoul Bot 피그마 
+### 🎨 Green Seoul Bot admin 피그마 
 [Figma](<https://www.figma.com/design/7dJt5U5QbMwwsBoiVEK5f3/Green-Seoul-Bot?node-id=0-1&t=A2BzgizBRsGz4Dhb-1>)
 
-#### Green Seoul Bot 메인
+#### Green Seoul Bot admin
 <img width="1417" alt="스크린샷 2025-01-06 오후 11 24 21" src="https://github.com/user-attachments/assets/6e815104-e384-4d29-b077-285d2b9ac912" />
 
-#### Green Seoul Bot 고대비 모드(다크모드)
-<img width="1426" alt="스크린샷 2025-01-06 오후 11 32 45" src="https://github.com/user-attachments/assets/d645502e-a00c-4fb0-8462-3c188d610409" />
